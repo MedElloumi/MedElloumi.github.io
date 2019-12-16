@@ -1,0 +1,9 @@
+com.mohamedelloumi.tripapp.dao
+com.mohamedelloumi.tripapp.db
+com.mohamedelloumi.tripapp.logic
+com.mohamedelloumi.tripapp.models
+com.mohamedelloumi.tripapp.network
+com.mohamedelloumi.tripapp.presenters
+com.mohamedelloumi.tripapp.ui.activities
+com.mohamedelloumi.tripapp.ui.fragments
+com.mohamedelloumi.tripapp.utils
